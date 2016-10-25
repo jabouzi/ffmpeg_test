@@ -12,6 +12,7 @@
 // Use
 //
 // gcc -o tutorial01 tutorial01.c -lavformat -lavcodec -lswscale -lz
+// gcc -o tutorial01 tutorial01.c -lavformat -lavcodec -lswscale -lavutil -lz
 //
 // to build (assuming libavformat and libavcodec are correctly installed
 // your system).
